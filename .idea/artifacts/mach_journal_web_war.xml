@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mach-journal-web:war">
+    <output-path>$PROJECT_DIR$/mach-journal-web/target</output-path>
+    <root id="archive" name="mach-journal-web-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="mach-journal-web:war exploded" />
+    </root>
+  </artifact>
+</component>

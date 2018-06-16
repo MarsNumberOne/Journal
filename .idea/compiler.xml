@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mach-joural-biz" />
+        <module name="mach-joural-common" />
+        <module name="mach-journal-api" />
+        <module name="mach-journal-dao" />
+        <module name="mach-journal-reptilian" />
+        <module name="mach-journal-task" />
+        <module name="mach-journal-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mach-joural-biz" target="1.8" />
+      <module name="mach-joural-common" target="1.8" />
+      <module name="mach-journal-api" target="1.8" />
+      <module name="mach-journal-core" target="1.8" />
+      <module name="mach-journal-dao" target="1.8" />
+      <module name="mach-journal-reptilian" target="1.8" />
+      <module name="mach-journal-task" target="1.8" />
+      <module name="mach-journal-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

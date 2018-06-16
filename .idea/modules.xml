@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mach-joural-biz/mach-joural-biz.iml" filepath="$PROJECT_DIR$/mach-joural-biz/mach-joural-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mach-joural-common/mach-joural-common.iml" filepath="$PROJECT_DIR$/mach-joural-common/mach-joural-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mach-journal-api/mach-journal-api.iml" filepath="$PROJECT_DIR$/mach-journal-api/mach-journal-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mach-journal-core.iml" filepath="$PROJECT_DIR$/mach-journal-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mach-journal-dao/mach-journal-dao.iml" filepath="$PROJECT_DIR$/mach-journal-dao/mach-journal-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mach-journal-reptilian/mach-journal-reptilian.iml" filepath="$PROJECT_DIR$/mach-journal-reptilian/mach-journal-reptilian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mach-journal-task/mach-journal-task.iml" filepath="$PROJECT_DIR$/mach-journal-task/mach-journal-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mach-journal-web/mach-journal-web.iml" filepath="$PROJECT_DIR$/mach-journal-web/mach-journal-web.iml" />
+    </modules>
+  </component>
+</project>
