@@ -8,7 +8,7 @@ import java.util.Set;
 import java.util.concurrent.TimeUnit;
 
 public class RedisUtil {
-
+/////////
     private RedisTemplate<Serializable, Object> redisTemplate;
 
     /**
